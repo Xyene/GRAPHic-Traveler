@@ -16,7 +16,6 @@ public class Main {
         } catch (ReflectiveOperationException | UnsupportedLookAndFeelException e) {
             e.printStackTrace();
         }
-        System.setProperty("sun.java2d.opengl", "True");
         int w = 70;
         int h = 40;
         final GraphPanel panel = new GraphPanel(w, h, Explorer.values()[0]);
