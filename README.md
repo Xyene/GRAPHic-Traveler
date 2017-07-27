@@ -12,4 +12,4 @@ Currently implements:
 
 ![GRAPHic Traveler](http://i.imgur.com/VgqPv3i.png)
 
-You can download it [here](https://ci.tbrindus.ca/job/GRAPHic%20Traveler/).
+You can download it [here](https://github.com/Xyene/GRAPHIC-Traveler/releases).
