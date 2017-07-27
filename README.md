@@ -1,7 +1,7 @@
 GRAPHic Traveler
 ================
 
-Visualization for various graph traversal algorithms.
+Animated visualization for various graph traversal algorithms.
 
 Currently implements:
 
@@ -10,6 +10,6 @@ Currently implements:
 * Dijkstra
 * A*
 
-![GRAPHic Traveler](https://dl.dropboxusercontent.com/u/67341745/ivybits/GRAPHicTraveler.png)
+![GRAPHic Traveler](http://i.imgur.com/VgqPv3i.png)
 
-You can download it [here](http://ci.ivybits.tk/job/GRAPHic%20Traveler/).
+You can download it [here](https://ci.tbrindus.ca/job/GRAPHic%20Traveler/).
